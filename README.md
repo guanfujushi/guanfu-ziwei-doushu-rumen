@@ -4,6 +4,8 @@
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
 
+[![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/guanfu-ziwei-doushu-rumen)
+
 **English**: Beginner's guide to reading a Zi Wei Dou Shu (Purple Star Astrology) chart — a full quick-reference table of the 14 major stars, explanations of the 12 palaces, a three-step reading method, and the complete seven-step star-placement workflow. Cultural reference only.
 
 ---
